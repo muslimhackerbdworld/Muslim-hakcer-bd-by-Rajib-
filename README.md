@@ -1,6 +1,6 @@
 <!-- HOW THIS WORK BRO😈😈😈-->
 <div>
-  <a href="https://www.facebook.com/dark-hacker-bd.dark.boy/">
+  <a href="https://https://www.facebook.com/hassanjahid12320/">
     <img width="185" heigth="185" src="https://e.top4top.io/p_2473szxk50.png?raw=true" align="left">
 <img width="35" heigth="35" src="https://e.top4top.io/p_2473szxk50.png">
 </a>
@@ -26,7 +26,7 @@
 - ![Alt text](https://github.com/MRVIVEK-CODER/MRVIVEK-CODER/raw/main/Developer.gif)
 
 <!--
-**Naim75o/Naim75o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Rajib365o/Rajib365o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 
@@ -50,13 +50,13 @@ Here are some ideas to get you started:
 ![Visitor Count](https://profile-counter.glitch.me/mao2116/count.svg)
 
 
-- ![Profile views](https://gpvc.arturio.dev/dark-hacker-bd)
-- [![GitHub followers](https://img.shields.io/github/followers/dark-hacker-bd.svg?style=social&label=Follow&maxAge=0090900)](https://github.com/dark-hacker-bd?tab=followers)
+- ![Profile views](https://gpvc.arturio.dev/muslim-hakcer-bd)
+- [![GitHub followers](https://img.shields.io/github/followers/muslim-hakcer-bd.svg?style=social&label=Follow&maxAge=0090900)](https://github.com/muslim-hakcer-bd?tab=followers)
 
 
 
 
-dark boy fb <a href="https://fb.com/dark.hacker.bd.dark.boy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="NILOY.VAU.6" height="40" width="50" /></a>
+Muslim boy fb <a href="https://fb.com/muslim.hakcer.bd.muslim.hakcer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="NILOY.VAU.6" height="40" width="50" /></a>
 
 
 
@@ -65,13 +65,13 @@ dark boy fb <a href="https://fb.com/dark.hacker.bd.dark.boy" target="blank"><img
 
 > GITHUB STATES :
 
-<a href="https://github.com/dark-hacker-bd"><img width=550 src="https://github-profile-trophy.vercel.app/?username=niloy0&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
+<a href="https://github.com/muslim-hakcer.bd"><img width=550 src="https://github-profile-trophy.vercel.app/?username=niloy0&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dark-hacker-bd&theme=merko)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=niloy0&theme=merko&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MohsinTheLegend&layout=compact&theme=chartreuse-dark" />
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MohsinTheLegend&layout=compact&theme=chartreuse-muslim" />
 
 
 
@@ -129,7 +129,7 @@ dark boy fb <a href="https://fb.com/dark.hacker.bd.dark.boy" target="blank"><img
 
 
 <h3>
-<i>DARK HACKER BD MAIN  <br>👇COMMAND👇</i>
+<i>Muslim Hakcer BD MAIN  <br>👇COMMAND👇</i>
 </h3>
 <br>
 
@@ -146,8 +146,8 @@ pip2 install requests
 
 pip2 install mechanize
 
-git clone https://github.com/dark-hacker-bd/dark-hacker-bd
+git clone https://github.com/muslim-hakcer-bd/muslim-hakcer-bd
 
-cd dark-hacker-bd
+cd MUSLIM-HAKCER-BD
 
-python2 DARK-HACKER-BD
+python2 MUSLIM-HAKCER-BD
